@@ -1,0 +1,8 @@
+
+tooltip.hotornotex.toohot=Too hot to handle!
+tooltip.hotornotex.hot=Hot to handle!
+tooltip.hotornotex.toocold=Too cold to handle!
+tooltip.hotornotex.toolight=Too light to handle!
+
+item.hotornotex.mitts.name=Mitts
+item.hotornotex.mitts.tooltip=Wear in the offhand to avoid bad effects
