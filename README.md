@@ -3,6 +3,8 @@
 Hot or Notを少し改造したものです。
 A slightly modified version of Hot or Not.
 
+Minecraft Version 1.12.2
+
 The MIT License Copyright (c) <2018> <Buuz135> 
   Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), 
   to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, 
