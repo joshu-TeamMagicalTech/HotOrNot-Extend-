@@ -5,6 +5,8 @@ A slightly modified version of Hot or Not.
 
 Minecraft Version 1.12.2
 
+本家様:https://www.curseforge.com/minecraft/mc-mods/hot-or-not
+
 
 The MIT License Copyright (c) 2018 Buuz135
 
