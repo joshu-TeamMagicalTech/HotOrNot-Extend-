@@ -62,7 +62,7 @@ import java.util.function.Predicate;
 )
 public class HotOrNotExtend {
 
-    public static final String MOD_ID = "hotornot_extend";
+    public static final String MOD_ID = "hotornotex";
     public static final String MOD_NAME = "Hot or Not -Extend-";
     public static final String VERSION = "1.0.0";
 
